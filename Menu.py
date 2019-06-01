@@ -384,6 +384,4 @@ def calculo():
         perder()
 #Se manda a llamar a la funcion menu que es la manda a llamar a todos los procesos y se forma una cadena        
 menu()
-ventana1.mainloop()ECHO est� activado.
-"# proyecto" 
-"# proyecto" 
+ventana1.mainloop()
